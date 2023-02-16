@@ -1,0 +1,13 @@
+C:\Users\tryst\source\repos\Milestone 1\Milestone 1\bin\Debug\Milestone 1.exe.config
+C:\Users\tryst\source\repos\Milestone 1\Milestone 1\bin\Debug\Milestone 1.exe
+C:\Users\tryst\source\repos\Milestone 1\Milestone 1\bin\Debug\Milestone 1.pdb
+C:\Users\tryst\source\repos\Milestone 1\Milestone 1\obj\Debug\Milestone 1.csproj.AssemblyReference.cache
+C:\Users\tryst\source\repos\Milestone 1\Milestone 1\obj\Debug\Milestone 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tryst\source\repos\Milestone 1\Milestone 1\obj\Debug\Milestone_1.Form1.resources
+C:\Users\tryst\source\repos\Milestone 1\Milestone 1\obj\Debug\Milestone_1.Properties.Resources.resources
+C:\Users\tryst\source\repos\Milestone 1\Milestone 1\obj\Debug\Milestone 1.csproj.GenerateResource.cache
+C:\Users\tryst\source\repos\Milestone 1\Milestone 1\obj\Debug\Milestone 1.csproj.CoreCompileInputs.cache
+C:\Users\tryst\source\repos\Milestone 1\Milestone 1\obj\Debug\Milestone 1.exe
+C:\Users\tryst\source\repos\Milestone 1\Milestone 1\obj\Debug\Milestone 1.pdb
+C:\Users\tryst\source\repos\Milestone 1\Milestone 1\obj\Debug\Milestone_1.Form2.resources
+C:\Users\tryst\source\repos\Milestone 1\Milestone 1\obj\Debug\Milestone_1.Form3.resources
